@@ -1,0 +1,3495 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<annotations>
+<metadata corpusHashcode="3798-76952304"/>
+<unit id="minecraft_-1">
+<metadata>
+<author>minecraft</author>
+<creation-date>-1</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1"/>
+</start>
+<end>
+<singlePosition index="41"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-2">
+<metadata>
+<author>minecraft</author>
+<creation-date>-2</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Builder_B11.0</feature>
+<feature name="minecraftSegID">2505869590_Builder_B11</feature>
+<feature name="Speaker">Builder_B11</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="19"/>
+</start>
+<end>
+<singlePosition index="40"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-3">
+<metadata>
+<author>minecraft</author>
+<creation-date>-3</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="41"/>
+</start>
+<end>
+<singlePosition index="154"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-4">
+<metadata>
+<author>minecraft</author>
+<creation-date>-4</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.1</feature>
+<feature name="minecraftSegID">2505869591_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="60"/>
+</start>
+<end>
+<singlePosition index="82"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-5">
+<metadata>
+<author>minecraft</author>
+<creation-date>-5</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.1</feature>
+<feature name="minecraftSegID">2505869592_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="83"/>
+</start>
+<end>
+<singlePosition index="108"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-6">
+<metadata>
+<author>minecraft</author>
+<creation-date>-6</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.1</feature>
+<feature name="minecraftSegID">2505869593_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="109"/>
+</start>
+<end>
+<singlePosition index="153"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-7">
+<metadata>
+<author>minecraft</author>
+<creation-date>-7</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="154"/>
+</start>
+<end>
+<singlePosition index="218"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-8">
+<metadata>
+<author>minecraft</author>
+<creation-date>-8</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.2</feature>
+<feature name="minecraftSegID">2505869594_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="167"/>
+</start>
+<end>
+<singlePosition index="217"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-9">
+<metadata>
+<author>minecraft</author>
+<creation-date>-9</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="218"/>
+</start>
+<end>
+<singlePosition index="282"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-10">
+<metadata>
+<author>minecraft</author>
+<creation-date>-10</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.3</feature>
+<feature name="minecraftSegID">2505869595_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="231"/>
+</start>
+<end>
+<singlePosition index="281"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-11">
+<metadata>
+<author>minecraft</author>
+<creation-date>-11</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="282"/>
+</start>
+<end>
+<singlePosition index="346"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-12">
+<metadata>
+<author>minecraft</author>
+<creation-date>-12</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.4</feature>
+<feature name="minecraftSegID">2505869596_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="295"/>
+</start>
+<end>
+<singlePosition index="345"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-13">
+<metadata>
+<author>minecraft</author>
+<creation-date>-13</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="346"/>
+</start>
+<end>
+<singlePosition index="410"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-14">
+<metadata>
+<author>minecraft</author>
+<creation-date>-14</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.5</feature>
+<feature name="minecraftSegID">2505869597_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="359"/>
+</start>
+<end>
+<singlePosition index="409"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-15">
+<metadata>
+<author>minecraft</author>
+<creation-date>-15</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="410"/>
+</start>
+<end>
+<singlePosition index="474"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-16">
+<metadata>
+<author>minecraft</author>
+<creation-date>-16</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.6</feature>
+<feature name="minecraftSegID">2505869598_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="423"/>
+</start>
+<end>
+<singlePosition index="473"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-17">
+<metadata>
+<author>minecraft</author>
+<creation-date>-17</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="474"/>
+</start>
+<end>
+<singlePosition index="537"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-18">
+<metadata>
+<author>minecraft</author>
+<creation-date>-18</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.7</feature>
+<feature name="minecraftSegID">2505869599_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="487"/>
+</start>
+<end>
+<singlePosition index="536"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-19">
+<metadata>
+<author>minecraft</author>
+<creation-date>-19</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="537"/>
+</start>
+<end>
+<singlePosition index="600"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-20">
+<metadata>
+<author>minecraft</author>
+<creation-date>-20</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.8</feature>
+<feature name="minecraftSegID">2505869600_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="550"/>
+</start>
+<end>
+<singlePosition index="599"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-21">
+<metadata>
+<author>minecraft</author>
+<creation-date>-21</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="600"/>
+</start>
+<end>
+<singlePosition index="663"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-22">
+<metadata>
+<author>minecraft</author>
+<creation-date>-22</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.9</feature>
+<feature name="minecraftSegID">2505869601_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="613"/>
+</start>
+<end>
+<singlePosition index="662"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-23">
+<metadata>
+<author>minecraft</author>
+<creation-date>-23</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="663"/>
+</start>
+<end>
+<singlePosition index="727"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-24">
+<metadata>
+<author>minecraft</author>
+<creation-date>-24</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.10</feature>
+<feature name="minecraftSegID">2505869602_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="677"/>
+</start>
+<end>
+<singlePosition index="726"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-25">
+<metadata>
+<author>minecraft</author>
+<creation-date>-25</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="727"/>
+</start>
+<end>
+<singlePosition index="801"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-26">
+<metadata>
+<author>minecraft</author>
+<creation-date>-26</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.11</feature>
+<feature name="minecraftSegID">2505869603_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="747"/>
+</start>
+<end>
+<singlePosition index="785"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-27">
+<metadata>
+<author>minecraft</author>
+<creation-date>-27</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.11</feature>
+<feature name="minecraftSegID">2505869604_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="786"/>
+</start>
+<end>
+<singlePosition index="800"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-28">
+<metadata>
+<author>minecraft</author>
+<creation-date>-28</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="801"/>
+</start>
+<end>
+<singlePosition index="865"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-29">
+<metadata>
+<author>minecraft</author>
+<creation-date>-29</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.12</feature>
+<feature name="minecraftSegID">2505869605_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="815"/>
+</start>
+<end>
+<singlePosition index="864"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-30">
+<metadata>
+<author>minecraft</author>
+<creation-date>-30</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="865"/>
+</start>
+<end>
+<singlePosition index="929"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-31">
+<metadata>
+<author>minecraft</author>
+<creation-date>-31</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.13</feature>
+<feature name="minecraftSegID">2505869606_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="879"/>
+</start>
+<end>
+<singlePosition index="928"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-32">
+<metadata>
+<author>minecraft</author>
+<creation-date>-32</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="929"/>
+</start>
+<end>
+<singlePosition index="993"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-33">
+<metadata>
+<author>minecraft</author>
+<creation-date>-33</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.14</feature>
+<feature name="minecraftSegID">2505869607_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="943"/>
+</start>
+<end>
+<singlePosition index="992"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-34">
+<metadata>
+<author>minecraft</author>
+<creation-date>-34</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="993"/>
+</start>
+<end>
+<singlePosition index="1057"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-35">
+<metadata>
+<author>minecraft</author>
+<creation-date>-35</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.15</feature>
+<feature name="minecraftSegID">2505869608_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1007"/>
+</start>
+<end>
+<singlePosition index="1056"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-36">
+<metadata>
+<author>minecraft</author>
+<creation-date>-36</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1057"/>
+</start>
+<end>
+<singlePosition index="1121"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-37">
+<metadata>
+<author>minecraft</author>
+<creation-date>-37</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.16</feature>
+<feature name="minecraftSegID">2505869609_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1071"/>
+</start>
+<end>
+<singlePosition index="1120"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-38">
+<metadata>
+<author>minecraft</author>
+<creation-date>-38</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1121"/>
+</start>
+<end>
+<singlePosition index="1185"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-39">
+<metadata>
+<author>minecraft</author>
+<creation-date>-39</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.17</feature>
+<feature name="minecraftSegID">2505869610_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1135"/>
+</start>
+<end>
+<singlePosition index="1184"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-40">
+<metadata>
+<author>minecraft</author>
+<creation-date>-40</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1185"/>
+</start>
+<end>
+<singlePosition index="1249"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-41">
+<metadata>
+<author>minecraft</author>
+<creation-date>-41</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.18</feature>
+<feature name="minecraftSegID">2505869611_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1199"/>
+</start>
+<end>
+<singlePosition index="1248"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-42">
+<metadata>
+<author>minecraft</author>
+<creation-date>-42</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1249"/>
+</start>
+<end>
+<singlePosition index="1313"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-43">
+<metadata>
+<author>minecraft</author>
+<creation-date>-43</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.19</feature>
+<feature name="minecraftSegID">2505869612_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1263"/>
+</start>
+<end>
+<singlePosition index="1312"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-44">
+<metadata>
+<author>minecraft</author>
+<creation-date>-44</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1313"/>
+</start>
+<end>
+<singlePosition index="1400"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-45">
+<metadata>
+<author>minecraft</author>
+<creation-date>-45</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.20</feature>
+<feature name="minecraftSegID">2505869613_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1333"/>
+</start>
+<end>
+<singlePosition index="1337"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-46">
+<metadata>
+<author>minecraft</author>
+<creation-date>-46</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.20</feature>
+<feature name="minecraftSegID">2505869614_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1338"/>
+</start>
+<end>
+<singlePosition index="1370"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-47">
+<metadata>
+<author>minecraft</author>
+<creation-date>-47</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.20</feature>
+<feature name="minecraftSegID">2505869615_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1371"/>
+</start>
+<end>
+<singlePosition index="1399"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-48">
+<metadata>
+<author>minecraft</author>
+<creation-date>-48</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1400"/>
+</start>
+<end>
+<singlePosition index="1462"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-49">
+<metadata>
+<author>minecraft</author>
+<creation-date>-49</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.21</feature>
+<feature name="minecraftSegID">2505869616_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1414"/>
+</start>
+<end>
+<singlePosition index="1461"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-50">
+<metadata>
+<author>minecraft</author>
+<creation-date>-50</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1462"/>
+</start>
+<end>
+<singlePosition index="1524"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-51">
+<metadata>
+<author>minecraft</author>
+<creation-date>-51</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.22</feature>
+<feature name="minecraftSegID">2505869617_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1476"/>
+</start>
+<end>
+<singlePosition index="1523"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-52">
+<metadata>
+<author>minecraft</author>
+<creation-date>-52</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1524"/>
+</start>
+<end>
+<singlePosition index="1586"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-53">
+<metadata>
+<author>minecraft</author>
+<creation-date>-53</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.23</feature>
+<feature name="minecraftSegID">2505869618_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1538"/>
+</start>
+<end>
+<singlePosition index="1585"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-54">
+<metadata>
+<author>minecraft</author>
+<creation-date>-54</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1586"/>
+</start>
+<end>
+<singlePosition index="1649"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-55">
+<metadata>
+<author>minecraft</author>
+<creation-date>-55</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.24</feature>
+<feature name="minecraftSegID">2505869619_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1600"/>
+</start>
+<end>
+<singlePosition index="1648"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-56">
+<metadata>
+<author>minecraft</author>
+<creation-date>-56</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1649"/>
+</start>
+<end>
+<singlePosition index="1712"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-57">
+<metadata>
+<author>minecraft</author>
+<creation-date>-57</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.25</feature>
+<feature name="minecraftSegID">2505869620_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1663"/>
+</start>
+<end>
+<singlePosition index="1711"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-58">
+<metadata>
+<author>minecraft</author>
+<creation-date>-58</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1712"/>
+</start>
+<end>
+<singlePosition index="1775"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-59">
+<metadata>
+<author>minecraft</author>
+<creation-date>-59</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.26</feature>
+<feature name="minecraftSegID">2505869621_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1726"/>
+</start>
+<end>
+<singlePosition index="1774"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-60">
+<metadata>
+<author>minecraft</author>
+<creation-date>-60</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1775"/>
+</start>
+<end>
+<singlePosition index="1838"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-61">
+<metadata>
+<author>minecraft</author>
+<creation-date>-61</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.27</feature>
+<feature name="minecraftSegID">2505869622_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1789"/>
+</start>
+<end>
+<singlePosition index="1837"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-62">
+<metadata>
+<author>minecraft</author>
+<creation-date>-62</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1838"/>
+</start>
+<end>
+<singlePosition index="1901"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-63">
+<metadata>
+<author>minecraft</author>
+<creation-date>-63</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.28</feature>
+<feature name="minecraftSegID">2505869623_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1852"/>
+</start>
+<end>
+<singlePosition index="1900"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-64">
+<metadata>
+<author>minecraft</author>
+<creation-date>-64</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1901"/>
+</start>
+<end>
+<singlePosition index="1981"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-65">
+<metadata>
+<author>minecraft</author>
+<creation-date>-65</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.29</feature>
+<feature name="minecraftSegID">2505869624_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1921"/>
+</start>
+<end>
+<singlePosition index="1940"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-66">
+<metadata>
+<author>minecraft</author>
+<creation-date>-66</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.29</feature>
+<feature name="minecraftSegID">2505869625_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1941"/>
+</start>
+<end>
+<singlePosition index="1980"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-67">
+<metadata>
+<author>minecraft</author>
+<creation-date>-67</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1981"/>
+</start>
+<end>
+<singlePosition index="2044"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-68">
+<metadata>
+<author>minecraft</author>
+<creation-date>-68</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.30</feature>
+<feature name="minecraftSegID">2505869626_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="1995"/>
+</start>
+<end>
+<singlePosition index="2043"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-69">
+<metadata>
+<author>minecraft</author>
+<creation-date>-69</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2044"/>
+</start>
+<end>
+<singlePosition index="2107"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-70">
+<metadata>
+<author>minecraft</author>
+<creation-date>-70</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.31</feature>
+<feature name="minecraftSegID">2505869627_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2058"/>
+</start>
+<end>
+<singlePosition index="2106"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-71">
+<metadata>
+<author>minecraft</author>
+<creation-date>-71</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2107"/>
+</start>
+<end>
+<singlePosition index="2170"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-72">
+<metadata>
+<author>minecraft</author>
+<creation-date>-72</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.32</feature>
+<feature name="minecraftSegID">2505869628_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2121"/>
+</start>
+<end>
+<singlePosition index="2169"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-73">
+<metadata>
+<author>minecraft</author>
+<creation-date>-73</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2170"/>
+</start>
+<end>
+<singlePosition index="2233"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-74">
+<metadata>
+<author>minecraft</author>
+<creation-date>-74</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.33</feature>
+<feature name="minecraftSegID">2505869629_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2184"/>
+</start>
+<end>
+<singlePosition index="2232"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-75">
+<metadata>
+<author>minecraft</author>
+<creation-date>-75</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2233"/>
+</start>
+<end>
+<singlePosition index="2296"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-76">
+<metadata>
+<author>minecraft</author>
+<creation-date>-76</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.34</feature>
+<feature name="minecraftSegID">2505869630_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2247"/>
+</start>
+<end>
+<singlePosition index="2295"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-77">
+<metadata>
+<author>minecraft</author>
+<creation-date>-77</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2296"/>
+</start>
+<end>
+<singlePosition index="2359"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-78">
+<metadata>
+<author>minecraft</author>
+<creation-date>-78</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.35</feature>
+<feature name="minecraftSegID">2505869631_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2310"/>
+</start>
+<end>
+<singlePosition index="2358"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-79">
+<metadata>
+<author>minecraft</author>
+<creation-date>-79</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2359"/>
+</start>
+<end>
+<singlePosition index="2431"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-80">
+<metadata>
+<author>minecraft</author>
+<creation-date>-80</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.36</feature>
+<feature name="minecraftSegID">2505869632_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2379"/>
+</start>
+<end>
+<singlePosition index="2392"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-81">
+<metadata>
+<author>minecraft</author>
+<creation-date>-81</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.36</feature>
+<feature name="minecraftSegID">2505869633_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2393"/>
+</start>
+<end>
+<singlePosition index="2430"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-82">
+<metadata>
+<author>minecraft</author>
+<creation-date>-82</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2431"/>
+</start>
+<end>
+<singlePosition index="2497"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-83">
+<metadata>
+<author>minecraft</author>
+<creation-date>-83</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.37</feature>
+<feature name="minecraftSegID">2505869634_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2445"/>
+</start>
+<end>
+<singlePosition index="2496"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-84">
+<metadata>
+<author>minecraft</author>
+<creation-date>-84</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2497"/>
+</start>
+<end>
+<singlePosition index="2563"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-85">
+<metadata>
+<author>minecraft</author>
+<creation-date>-85</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.38</feature>
+<feature name="minecraftSegID">2505869635_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2511"/>
+</start>
+<end>
+<singlePosition index="2562"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-86">
+<metadata>
+<author>minecraft</author>
+<creation-date>-86</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2563"/>
+</start>
+<end>
+<singlePosition index="2629"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-87">
+<metadata>
+<author>minecraft</author>
+<creation-date>-87</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.39</feature>
+<feature name="minecraftSegID">2505869636_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2577"/>
+</start>
+<end>
+<singlePosition index="2628"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-88">
+<metadata>
+<author>minecraft</author>
+<creation-date>-88</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2629"/>
+</start>
+<end>
+<singlePosition index="2695"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-89">
+<metadata>
+<author>minecraft</author>
+<creation-date>-89</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.40</feature>
+<feature name="minecraftSegID">2505869637_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2643"/>
+</start>
+<end>
+<singlePosition index="2694"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-90">
+<metadata>
+<author>minecraft</author>
+<creation-date>-90</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2695"/>
+</start>
+<end>
+<singlePosition index="2760"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-91">
+<metadata>
+<author>minecraft</author>
+<creation-date>-91</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.41</feature>
+<feature name="minecraftSegID">2505869638_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2709"/>
+</start>
+<end>
+<singlePosition index="2759"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-92">
+<metadata>
+<author>minecraft</author>
+<creation-date>-92</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2760"/>
+</start>
+<end>
+<singlePosition index="2825"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-93">
+<metadata>
+<author>minecraft</author>
+<creation-date>-93</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.42</feature>
+<feature name="minecraftSegID">2505869639_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2774"/>
+</start>
+<end>
+<singlePosition index="2824"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-94">
+<metadata>
+<author>minecraft</author>
+<creation-date>-94</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2825"/>
+</start>
+<end>
+<singlePosition index="2890"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-95">
+<metadata>
+<author>minecraft</author>
+<creation-date>-95</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.43</feature>
+<feature name="minecraftSegID">2505869640_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2839"/>
+</start>
+<end>
+<singlePosition index="2889"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-96">
+<metadata>
+<author>minecraft</author>
+<creation-date>-96</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2890"/>
+</start>
+<end>
+<singlePosition index="2955"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-97">
+<metadata>
+<author>minecraft</author>
+<creation-date>-97</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.44</feature>
+<feature name="minecraftSegID">2505869641_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2904"/>
+</start>
+<end>
+<singlePosition index="2954"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-98">
+<metadata>
+<author>minecraft</author>
+<creation-date>-98</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2955"/>
+</start>
+<end>
+<singlePosition index="3020"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-99">
+<metadata>
+<author>minecraft</author>
+<creation-date>-99</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.45</feature>
+<feature name="minecraftSegID">2505869642_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="2969"/>
+</start>
+<end>
+<singlePosition index="3019"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-100">
+<metadata>
+<author>minecraft</author>
+<creation-date>-100</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3020"/>
+</start>
+<end>
+<singlePosition index="3085"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-101">
+<metadata>
+<author>minecraft</author>
+<creation-date>-101</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.46</feature>
+<feature name="minecraftSegID">2505869643_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3034"/>
+</start>
+<end>
+<singlePosition index="3084"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-102">
+<metadata>
+<author>minecraft</author>
+<creation-date>-102</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3085"/>
+</start>
+<end>
+<singlePosition index="3126"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-103">
+<metadata>
+<author>minecraft</author>
+<creation-date>-103</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.47</feature>
+<feature name="minecraftSegID">2505869644_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3105"/>
+</start>
+<end>
+<singlePosition index="3125"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-104">
+<metadata>
+<author>minecraft</author>
+<creation-date>-104</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3126"/>
+</start>
+<end>
+<singlePosition index="3191"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-105">
+<metadata>
+<author>minecraft</author>
+<creation-date>-105</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.48</feature>
+<feature name="minecraftSegID">2505869645_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3140"/>
+</start>
+<end>
+<singlePosition index="3190"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-106">
+<metadata>
+<author>minecraft</author>
+<creation-date>-106</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3191"/>
+</start>
+<end>
+<singlePosition index="3257"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-107">
+<metadata>
+<author>minecraft</author>
+<creation-date>-107</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.49</feature>
+<feature name="minecraftSegID">2505869646_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3205"/>
+</start>
+<end>
+<singlePosition index="3256"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-108">
+<metadata>
+<author>minecraft</author>
+<creation-date>-108</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3257"/>
+</start>
+<end>
+<singlePosition index="3323"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-109">
+<metadata>
+<author>minecraft</author>
+<creation-date>-109</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.50</feature>
+<feature name="minecraftSegID">2505869647_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3271"/>
+</start>
+<end>
+<singlePosition index="3322"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-110">
+<metadata>
+<author>minecraft</author>
+<creation-date>-110</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3323"/>
+</start>
+<end>
+<singlePosition index="3389"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-111">
+<metadata>
+<author>minecraft</author>
+<creation-date>-111</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.51</feature>
+<feature name="minecraftSegID">2505869648_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3337"/>
+</start>
+<end>
+<singlePosition index="3388"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-112">
+<metadata>
+<author>minecraft</author>
+<creation-date>-112</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3389"/>
+</start>
+<end>
+<singlePosition index="3455"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-113">
+<metadata>
+<author>minecraft</author>
+<creation-date>-113</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.52</feature>
+<feature name="minecraftSegID">2505869649_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3403"/>
+</start>
+<end>
+<singlePosition index="3454"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-114">
+<metadata>
+<author>minecraft</author>
+<creation-date>-114</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3455"/>
+</start>
+<end>
+<singlePosition index="3521"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-115">
+<metadata>
+<author>minecraft</author>
+<creation-date>-115</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.53</feature>
+<feature name="minecraftSegID">2505869650_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3469"/>
+</start>
+<end>
+<singlePosition index="3520"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-116">
+<metadata>
+<author>minecraft</author>
+<creation-date>-116</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3521"/>
+</start>
+<end>
+<singlePosition index="3595"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-117">
+<metadata>
+<author>minecraft</author>
+<creation-date>-117</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.54</feature>
+<feature name="minecraftSegID">2505869651_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3541"/>
+</start>
+<end>
+<singlePosition index="3564"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-118">
+<metadata>
+<author>minecraft</author>
+<creation-date>-118</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.54</feature>
+<feature name="minecraftSegID">2505869652_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3565"/>
+</start>
+<end>
+<singlePosition index="3583"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-119">
+<metadata>
+<author>minecraft</author>
+<creation-date>-119</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968487374</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.54</feature>
+<feature name="minecraftSegID">2505869653_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3584"/>
+</start>
+<end>
+<singlePosition index="3588"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-120">
+<metadata>
+<author>minecraft</author>
+<creation-date>-120</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3595"/>
+</start>
+<end>
+<singlePosition index="3661"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-121">
+<metadata>
+<author>minecraft</author>
+<creation-date>-121</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.55</feature>
+<feature name="minecraftSegID">2505869654_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3609"/>
+</start>
+<end>
+<singlePosition index="3660"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-122">
+<metadata>
+<author>minecraft</author>
+<creation-date>-122</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3661"/>
+</start>
+<end>
+<singlePosition index="3727"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-123">
+<metadata>
+<author>minecraft</author>
+<creation-date>-123</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.System.56</feature>
+<feature name="minecraftSegID">2505869655_System</feature>
+<feature name="Speaker">System</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3675"/>
+</start>
+<end>
+<singlePosition index="3726"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-124">
+<metadata>
+<author>minecraft</author>
+<creation-date>-124</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3727"/>
+</start>
+<end>
+<singlePosition index="3759"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-125">
+<metadata>
+<author>minecraft</author>
+<creation-date>-125</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Architect_A7.57</feature>
+<feature name="minecraftSegID">2505869656_Architect_A7</feature>
+<feature name="Speaker">Architect_A7</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3747"/>
+</start>
+<end>
+<singlePosition index="3758"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-126">
+<metadata>
+<author>minecraft</author>
+<creation-date>-126</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>paragraph</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3759"/>
+</start>
+<end>
+<singlePosition index="3798"/>
+</end>
+</positioning>
+</unit>
+<unit id="minecraft_-127">
+<metadata>
+<author>minecraft</author>
+<creation-date>-127</creation-date>
+<lastModifier>minecraft</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet>
+<feature name="turnID">C77-B11-A7.Builder_B11.58</feature>
+<feature name="minecraftSegID">2505869657_Builder_B11</feature>
+<feature name="Speaker">Builder_B11</feature>
+</featureSet>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3778"/>
+</start>
+<end>
+<singlePosition index="3797"/>
+</end>
+</positioning>
+</unit>
+<unit id="kthompson_1704968491957">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968491957</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Segment</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<start>
+<singlePosition index="3589"/>
+</start>
+<end>
+<singlePosition index="3595"/>
+</end>
+</positioning>
+</unit>
+<relation id="kthompson_1704968361341">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968361341</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Continuation</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-2"/>
+<term id="minecraft_-4"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968377088">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968377088</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Elaboration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-4"/>
+<term id="minecraft_-5"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968381330">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968381330</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Continuation</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-5"/>
+<term id="minecraft_-6"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968385824">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968385824</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-6"/>
+<term id="kthompson_1704968348704"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968393519">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968393519</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968348704"/>
+<term id="minecraft_-26"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968397686">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968397686</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Elaboration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-26"/>
+<term id="minecraft_-27"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968404506">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968404506</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-27"/>
+<term id="kthompson_1704968335676"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968410073">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968410073</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Acknowledgement</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968335676"/>
+<term id="minecraft_-45"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968413832">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968413832</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-45"/>
+<term id="minecraft_-46"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968420342">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968420342</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Elaboration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-46"/>
+<term id="minecraft_-47"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968424090">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968424090</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-47"/>
+<term id="kthompson_1704968325492"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968430606">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968430606</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968435384</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968325492"/>
+<term id="minecraft_-65"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968439570">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968439570</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Contrast</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-65"/>
+<term id="minecraft_-66"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968446540">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968446540</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-66"/>
+<term id="kthompson_1704968316717"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968451180">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968451180</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Elaboration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-80"/>
+<term id="minecraft_-81"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968455286">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968455286</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968316717"/>
+<term id="minecraft_-80"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968459714">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968459714</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-81"/>
+<term id="kthompson_1704968307144"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968464194">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968464194</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968307144"/>
+<term id="minecraft_-103"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968467920">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968467920</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-103"/>
+<term id="kthompson_1704968300195"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968473534">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968473534</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968300195"/>
+<term id="minecraft_-117"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968478889">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968478889</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Continuation</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-117"/>
+<term id="minecraft_-118"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968496981">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968496981</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Correction</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-117"/>
+<term id="minecraft_-119"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968500699">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968500699</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comment</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-119"/>
+<term id="kthompson_1704968491957"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968505541">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968505541</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Result</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968491957"/>
+<term id="kthompson_1704968292917"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968510377">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968510377</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Acknowledgement</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968292917"/>
+<term id="minecraft_-125"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968514533">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968514533</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Comment</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="kthompson_1704968491957"/>
+<term id="minecraft_-127"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968523527">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968523527</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Narration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-4"/>
+<term id="minecraft_-26"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968527571">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968527571</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Narration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-26"/>
+<term id="minecraft_-46"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968530699">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968530699</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Narration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-46"/>
+<term id="minecraft_-65"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968533367">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968533367</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Narration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-65"/>
+<term id="minecraft_-80"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968537729">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968537729</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Narration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-80"/>
+<term id="minecraft_-103"/>
+</positioning>
+</relation>
+<relation id="kthompson_1704968541477">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968541477</creation-date>
+<lastModifier>n/a</lastModifier>
+<lastModificationDate>0</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Narration</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<term id="minecraft_-103"/>
+<term id="minecraft_-117"/>
+</positioning>
+</relation>
+<schema id="kthompson_1704968292917">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968292917</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968296732</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-123"/>
+<embedded-unit id="minecraft_-121"/>
+</positioning>
+</schema>
+<schema id="kthompson_1704968300195">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968300195</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968304443</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-115"/>
+<embedded-unit id="minecraft_-113"/>
+<embedded-unit id="minecraft_-111"/>
+<embedded-unit id="minecraft_-109"/>
+<embedded-unit id="minecraft_-107"/>
+<embedded-unit id="minecraft_-105"/>
+</positioning>
+</schema>
+<schema id="kthompson_1704968307144">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968307144</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968314254</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-101"/>
+<embedded-unit id="minecraft_-99"/>
+<embedded-unit id="minecraft_-97"/>
+<embedded-unit id="minecraft_-95"/>
+<embedded-unit id="minecraft_-93"/>
+<embedded-unit id="minecraft_-91"/>
+<embedded-unit id="minecraft_-89"/>
+<embedded-unit id="minecraft_-87"/>
+<embedded-unit id="minecraft_-85"/>
+<embedded-unit id="minecraft_-83"/>
+</positioning>
+</schema>
+<schema id="kthompson_1704968316717">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968316717</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968322928</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-68"/>
+<embedded-unit id="minecraft_-70"/>
+<embedded-unit id="minecraft_-72"/>
+<embedded-unit id="minecraft_-74"/>
+<embedded-unit id="minecraft_-76"/>
+<embedded-unit id="minecraft_-78"/>
+</positioning>
+</schema>
+<schema id="kthompson_1704968325492">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968325492</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968332360</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-63"/>
+<embedded-unit id="minecraft_-61"/>
+<embedded-unit id="minecraft_-59"/>
+<embedded-unit id="minecraft_-57"/>
+<embedded-unit id="minecraft_-55"/>
+<embedded-unit id="minecraft_-53"/>
+<embedded-unit id="minecraft_-51"/>
+<embedded-unit id="minecraft_-49"/>
+</positioning>
+</schema>
+<schema id="kthompson_1704968335676">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968335676</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968342554</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-43"/>
+<embedded-unit id="minecraft_-41"/>
+<embedded-unit id="minecraft_-39"/>
+<embedded-unit id="minecraft_-37"/>
+<embedded-unit id="minecraft_-35"/>
+<embedded-unit id="minecraft_-33"/>
+<embedded-unit id="minecraft_-31"/>
+<embedded-unit id="minecraft_-29"/>
+</positioning>
+</schema>
+<schema id="kthompson_1704968348704">
+<metadata>
+<author>kthompson</author>
+<creation-date>1704968348704</creation-date>
+<lastModifier>kthompson</lastModifier>
+<lastModificationDate>1704968354411</lastModificationDate>
+</metadata>
+<characterisation>
+<type>Complex_discourse_unit</type>
+<featureSet/>
+</characterisation>
+<positioning>
+<embedded-unit id="minecraft_-24"/>
+<embedded-unit id="minecraft_-22"/>
+<embedded-unit id="minecraft_-20"/>
+<embedded-unit id="minecraft_-18"/>
+<embedded-unit id="minecraft_-16"/>
+<embedded-unit id="minecraft_-14"/>
+<embedded-unit id="minecraft_-12"/>
+<embedded-unit id="minecraft_-10"/>
+<embedded-unit id="minecraft_-8"/>
+</positioning>
+</schema>
+</annotations>
